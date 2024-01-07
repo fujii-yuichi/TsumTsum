@@ -1,0 +1,10 @@
+{
+    "java.configuration.updateBuildConfiguration": "automatic",
+    "xml.format.maxLineWidth": 160,
+    "java.format.settings.url": ".local/java_formatter.xml",
+    "editor.wordWrapColumn": 160,
+    "[java]": {
+        "editor.insertSpaces": false
+    },
+    "java.format.settings.profile": "Java formatter"
+}
