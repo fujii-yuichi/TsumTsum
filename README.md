@@ -17,7 +17,7 @@ LINE：ディズニー ツムツムのハート交換用自動送信プログラ
 
 # Installation
 
-sikulixapi 1.1.3 は sikulixsetup-1.1.3 を実行しオプションしてすることで生成する。  
+sikulixapi 1.1.3 は sikulixsetup-1.1.3 を実行しオプション指定することで生成する。  
 ※念のため事前に入手して生成したJARを内包している。
 ```powershell
 New-Item -ItemType Directory -Force lib
